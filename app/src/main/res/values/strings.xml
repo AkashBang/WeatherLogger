@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather Logger</string>
+    <string name="no_network_connectivity">There seems to be a problem with your network, Please try again</string>
+    <string name="label_description">Description :</string>
+    <string name="label_temperatur">Temperatur :</string>
+    <string name="label_feels_like">Feels Like :</string>
+    <string name="label_pressure">Pressure :</string>
+    <string name="label_humidity">Humidity :</string>
+    <string name="label_date_logged">Date Logged :</string>
+    <string name="hint_enter_city_name">Enter City Name</string>
+    <string name="please_enter_required_field">Please enter required field</string>
+    <string name="location_rationale">Location permission requires to access your current location</string>
+    <string name="title_weather_details">Weather Details</string>
+</resources>
