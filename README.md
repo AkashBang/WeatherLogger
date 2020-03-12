@@ -10,6 +10,7 @@ Sample app has been developed as part of tech assignment for Truecaller, coded i
   - Uses Room for local data storage
   - Unit testing implemented
   - Follows Material Design 
+  - Compatibility with Android 4.1 and onwards
 
 
 ## Optional Task Implemented
