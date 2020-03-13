@@ -1,6 +1,6 @@
 # WeatherLogger
 
-Sample app has been developed as part of tech assignment for Truecaller, coded in kotlin programming language. Below are some highlights of the code
+Sample app has been developed, coded in kotlin programming language. Below are some highlights of the code
 
   - Follows Clean Code Principal
   - Language - Kotlin
